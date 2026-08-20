@@ -1,0 +1,4 @@
+interface:
+  display_name: "X-Ray-anything"
+  short_description: "把任意图片处理成经典医用蓝白X光风格（近白骨骼、暗背景、蓝白调、半透明衣物）"
+  default_prompt: "Use $x-ray-anything to transform this image into an X-ray radiograph style."

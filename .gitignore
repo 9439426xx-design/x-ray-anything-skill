@@ -1,0 +1,17 @@
+# 工具缓存
+.impeccable/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时文件
+*.tmp
+crun-client.js
+
+# 独立子仓库（测试图同步仓库，不纳入本仓库跟踪）
+dev/x-ray-test-images-main/
+
+# 开发记录（个人测试文件，不公开）
+dev/
